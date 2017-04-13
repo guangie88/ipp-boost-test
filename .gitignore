@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+.lock-waf_linux2_build
+build/
