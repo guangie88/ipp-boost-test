@@ -152,7 +152,7 @@ project_options_map = {
 
         PLATFORM_LINUX: {
             BLD_CONF_COMMON: {
-                LIB_KEY: [ 'ippcore', 'ipps' ],
+                LIB_KEY: [ 'ipps', 'ippvm', 'ippcore' ],
                 LIBPATH_KEY: [],
                 LINKFLAGS_KEY: [],
                 CXXFLAGS_KEY: [],
