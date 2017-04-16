@@ -152,7 +152,7 @@ project_options_map = {
 
         PLATFORM_LINUX: {
             BLD_CONF_COMMON: {
-                LIB_KEY: [ 'ipps', 'ippvm', 'ippcore' ],
+                LIB_KEY: [ 'ipps', 'ippvm', 'ippcore', 'boost_filesystem', 'boost_system', 'gtest' ],
                 LIBPATH_KEY: [],
                 LINKFLAGS_KEY: [],
                 CXXFLAGS_KEY: [],
